@@ -1,6 +1,8 @@
 # ChatScript
 Natural Language tool/dialog manager
 
+## NOTICE: This fork is dead as is the upstrem repo.  All new work on Chatscript is now happening on Chatscript/Chatscript and my fork of that repo ##
+
 ChatScript is the next generation chatbot engine that has won the Loebner's 4 times and is the basis for natural language company for a variety of tech startups.
 
 ChatScript is a rule-based engine, where rules are created by humans writers in program scripts through a process called dialog flow scripting. These use a scripting metalanguage (simply called a "script") as their source code. 
